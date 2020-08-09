@@ -1,4 +1,4 @@
-# exchange
+# Exchange
 
 ## Project setup
 ```
